@@ -8,7 +8,12 @@ Frontend AI Integrations, UI experiments, and other stuff.</p>
 <p>Latest: <a href="https://lime-zeta-three.vercel.app"><b>Lime</b></a> — a chat client for self-hosted LLMs (<a href="https://github.com/classiccosta/lime-local-ai">repo</a>)</p>
 
 <H4>Fun facts</H4>
-If I'm not coding, I'm at the tennis court 🎾
+<p>If I'm not coding, I'm at the tennis court 🎾</p>
+
+<H4>Contacts</H4>
+📨 cc.diogo@gmail.com<br>
+💼 https://www.linkedin.com/in/classiccosta
+
 
 <H4>Stack</H4>
 <p>
