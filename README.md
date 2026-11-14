@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="banner-light.svg" width="100%">
+  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="banner-light.svg" width="560">
 </picture>
 
 <H3>Hey there 👋🏻</H3>
@@ -11,9 +11,7 @@
 Frontend AI Integrations, UI experiments, and other stuff.</p> 
 
 <H4>Latest: Lime</H4>
-<a href="https://lime-zeta-three.vercel.app"> <img src="lime-demo.gif" alt="Lime demo: choosing a model and chatting with a self-hosted LLM" width="100%"> </a>
-
-A chat client for self-hosted LLMs. Live demo · Repo
+<p>A chat client for self-hosted LLMs. <a href="https://lime-zeta-three.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/classiccosta/lime-local-ai">Repo</a></p>
 
 <H4>Fun facts</H4>
 <p>If I'm not coding, I'm at the tennis court 🎾</p>
