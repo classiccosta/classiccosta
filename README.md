@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-48c0377.svg">
-  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-8653c9b.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-ed58935.svg">
-  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="assets/banner-light-01fd034.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-49ce721.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-01eb5a9.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-e1bb837.svg">
+  <img alt="Diogo Costa — Frontend engineer, React + TypeScript" src="assets/banner-light-8d765e2.svg" width="100%">
 </picture>
 
 <p>Hey there 👋🏻</p>
@@ -14,6 +14,8 @@ Frontend AI Integrations, UI experiments, and other stuff.</p>
 
 <H4>Latest Projects</H4>
 <p>Lime AI - a chat client for self-hosted LLMs.</p>
+<p>Streaming replies you can stop · works with any OpenAI-compatible server · tested and deployed with CI/CD</p>
+<p><a href="https://lime-zeta-three.vercel.app"><img alt="Lime streaming a reply from a local model" src="assets/lime-demo-1866a3e.gif" width="100%"></a></p>
 <p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-debd791.svg"><img alt="Live demo" src="assets/demo-light-af5cdcb.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-6cbcbbb.svg"><img alt="Repo" src="assets/repo-light-65fec55.svg"></picture></a></p>
 
 <!-- OSS:START -->
