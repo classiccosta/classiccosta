@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="banner-light.svg" width="580">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="assets/banner-light.svg" width="640"></picture>
 
 <H3>Hey there 👋🏻</H3>
 
@@ -11,21 +8,23 @@
 Frontend AI Integrations, UI experiments, and other stuff.</p> 
 
 <H4>Latest: Lime</H4>
-<p>A chat client for self-hosted LLMs. <a href="https://lime-zeta-three.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/classiccosta/lime-local-ai">Repo</a></p>
+<p>A chat client for self-hosted LLMs.</p>
+<p>
+  <a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.svg"><img alt="Live demo" src="assets/demo-light.svg"></picture></a>&nbsp;
+  <a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark.svg"><img alt="Repo" src="assets/repo-light.svg"></picture></a>
+</p>
+
+<!-- OSS:START -->
+<!-- OSS:END -->
+
+<H4>Stack</H4>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img alt="React, TypeScript, Next.js, Tailwind CSS, SCSS, SQL" src="assets/stack-light.svg"></picture></p>
 
 <H4>Fun facts</H4>
 <p>If I'm not coding, I'm at the tennis court 🎾</p>
 
 <H4>Contacts</H4>
-📨 <a href="mailto:cc.diogo@gmail.com">cc.diogo@gmail.com</a><br>
-💼 <a href="https://www.linkedin.com/in/classiccosta">linkedin.com/in/classiccosta</a>
-
-<H4>Stack</H4>
 <p>
-  <img src="react.svg" width="32" height="32" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="nextjs.svg" width="32" height="32" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
-  <img src="tailwindcss.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="sass.svg" width="32" height="32" alt="SCSS" title="SCSS" />&nbsp;&nbsp;
-  <img src="sql.svg" width="32" height="32" alt="SQL" title="SQL" />
+  <a href="mailto:cc.diogo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg"><img alt="cc.diogo@gmail.com" src="assets/email-light.svg"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/classiccosta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img alt="linkedin.com/in/classiccosta" src="assets/linkedin-light.svg"></picture></a>
 </p>
