@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-77a5ecd.svg">
-  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-49de08d.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-2f763b2.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-cac3a85.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-f9e8d8d.svg">
   <img alt="Diogo Costa — Frontend engineer, React + TypeScript" src="assets/banner-light-fa2a6ec.svg" width="100%">
 </picture>
