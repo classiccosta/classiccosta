@@ -14,7 +14,7 @@ Frontend AI Integrations, UI experiments, and other stuff.</p>
 
 <H4>Latest Projects</H4>
 <p>Lime AI - a chat client for self-hosted LLMs.</p>
-<p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-c28c217.svg"><img alt="Live demo" src="assets/demo-light-15fe373.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-f082858.svg"><img alt="Repo" src="assets/repo-light-6f3317a.svg"></picture></a></p>
+<p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-45f9270.svg"><img alt="Live demo" src="assets/demo-light-a02c057.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-d490a8a.svg"><img alt="Repo" src="assets/repo-light-e75c4b3.svg"></picture></a></p>
 
 <!-- OSS:START -->
 <!-- OSS:END -->
@@ -26,4 +26,4 @@ Frontend AI Integrations, UI experiments, and other stuff.</p>
 <p>If I'm not coding, I'm at the tennis court 🎾</p>
 
 <H4>Contacts</H4>
-<p><a href="mailto:cc.diogo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/email-dark-0c668f1.svg"><img alt="cc.diogo@gmail.com" src="assets/email-light-285c643.svg"></picture></a><a href="https://www.linkedin.com/in/classiccosta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark-b562bd9.svg"><img alt="linkedin.com/in/classiccosta" src="assets/linkedin-light-c1d64c6.svg"></picture></a></p>
+<p><a href="mailto:cc.diogo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/email-dark-af2b4d1.svg"><img alt="cc.diogo@gmail.com" src="assets/email-light-5a7ecec.svg"></picture></a><a href="https://www.linkedin.com/in/classiccosta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark-46a07a6.svg"><img alt="linkedin.com/in/classiccosta" src="assets/linkedin-light-b1b8c79.svg"></picture></a></p>
