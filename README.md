@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2"><img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="assets/banner-light.svg?v=2" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=3"><img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="assets/banner-light.svg?v=3" width="100%" height="84"></picture>
 
 <H3>Hey there 👋🏻</H3>
 
