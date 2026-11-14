@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-7b828bd.svg">
-  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-ebc98aa.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-5972657.svg">
-  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="assets/banner-light-c4d0b73.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-7ea9056.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-cd8187e.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-c0277af.svg">
+  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="assets/banner-light-dc33f44.svg" width="100%">
 </picture>
 
 <p>Hey there 👋🏻</p>
@@ -14,16 +14,16 @@ Frontend AI Integrations, UI experiments, and other stuff.</p>
 
 <H4>Latest Projects</H4>
 <p>Lime AI - a chat client for self-hosted LLMs.</p>
-<p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-9f16866.svg"><img alt="Live demo" src="assets/demo-light-c70a7a2.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-c043dc6.svg"><img alt="Repo" src="assets/repo-light-7902d94.svg"></picture></a></p>
+<p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-56ff929.svg"><img alt="Live demo" src="assets/demo-light-5b1a466.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-fd4cc3a.svg"><img alt="Repo" src="assets/repo-light-a9077f8.svg"></picture></a></p>
 
 <!-- OSS:START -->
 <!-- OSS:END -->
 
 <H4>Stack</H4>
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-react-dark-4c9412f.svg"><img alt="React" src="assets/tag-react-light-ace8d2e.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-typescript-dark-5b1c632.svg"><img alt="TypeScript" src="assets/tag-typescript-light-66fc0d3.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-nextjs-dark-6faab4f.svg"><img alt="Next.js" src="assets/tag-nextjs-light-a8c6a7d.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-tailwind-dark-c4fd798.svg"><img alt="Tailwind CSS" src="assets/tag-tailwind-light-747e21d.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-scss-dark-76177c1.svg"><img alt="SCSS" src="assets/tag-scss-light-062711c.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-sql-dark-9670a7e.svg"><img alt="SQL" src="assets/tag-sql-light-4251092.svg"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-react-dark-fe6ae4e.svg"><img alt="React" src="assets/tag-react-light-6e0ade9.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-typescript-dark-877291e.svg"><img alt="TypeScript" src="assets/tag-typescript-light-db51119.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-nextjs-dark-0d6b679.svg"><img alt="Next.js" src="assets/tag-nextjs-light-4a46217.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-tailwind-dark-d32c90c.svg"><img alt="Tailwind CSS" src="assets/tag-tailwind-light-73b69fa.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-scss-dark-044078f.svg"><img alt="SCSS" src="assets/tag-scss-light-9b0f993.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-sql-dark-b7f9b28.svg"><img alt="SQL" src="assets/tag-sql-light-52b645e.svg"></picture></p>
 
 <H4>Fun facts</H4>
 <p>If I'm not coding, I'm at the tennis court 🎾</p>
 
 <H4>Contacts</H4>
-<p><a href="mailto:cc.diogo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/email-dark-c5697a8.svg"><img alt="cc.diogo@gmail.com" src="assets/email-light-09cd2d8.svg"></picture></a><a href="https://www.linkedin.com/in/classiccosta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark-fa10a78.svg"><img alt="linkedin.com/in/classiccosta" src="assets/linkedin-light-e57f496.svg"></picture></a></p>
+<p><a href="mailto:cc.diogo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/email-dark-f5d9caa.svg"><img alt="cc.diogo@gmail.com" src="assets/email-light-cbea0b0.svg"></picture></a><a href="https://www.linkedin.com/in/classiccosta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark-7724014.svg"><img alt="linkedin.com/in/classiccosta" src="assets/linkedin-light-4b6a9a1.svg"></picture></a></p>
