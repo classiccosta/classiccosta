@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="banner-light.svg" width="480">
+  <img alt="Diogo Costa — Frontend engineer, React + TypeScript, AI interfaces" src="banner-light.svg" width="580">
 </picture>
 
 <H3>Hey there 👋🏻</H3>
