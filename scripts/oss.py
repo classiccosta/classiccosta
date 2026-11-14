@@ -23,8 +23,8 @@ START, END = "<!-- OSS:START -->", "<!-- OSS:END -->"
 SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 MONO = "ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
 THEME = {
-    "dark": dict(border="#30363d", icon="#97c459", muted="#9198a1", link="#4493f8"),
-    "light": dict(border="#d1d9e0", icon="#3b6d11", muted="#59636e", link="#0969da"),
+    "dark": dict(border="#383d37", icon="#d2ee46", muted="#a8aea5", link="#d2ee46"),
+    "light": dict(border="#d1d9e0", icon="#5f6d0a", muted="#59636e", link="#0969da"),
 }
 MERGE_ICON = (
     '<path d="M5 18a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"/><path d="M5 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"/>'
