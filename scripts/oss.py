@@ -24,7 +24,7 @@ SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-se
 MONO = "ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
 THEME = {
     "dark": dict(border="#383d37", icon="#d2ee46", muted="#a8aea5", link="#d2ee46"),
-    "light": dict(border="#d1d9e0", icon="#5f6d0a", muted="#59636e", link="#0969da"),
+    "light": dict(border="#d1d9e0", icon="#5d6c00", muted="#5a615a", link="#0969da"),
 }
 MERGE_ICON = (
     '<path d="M5 18a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"/><path d="M5 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"/>'
@@ -106,7 +106,7 @@ def build_block(prs):
         f"is:pr author:{USER} is:merged -user:{USER}"
     )
     return (
-        "<H4>Open source</H4>\n"
+        "<h2>Open source</h2>\n"
         f"<p><b>{s(len(prs), 'merged PR')}</b> across <b>{s(projects, 'project')}</b> since {since}</p>\n"
         "<p>\n" + "\n".join(rows) + "\n</p>\n"
         f'<p><a href="{search}">See all merged PRs →</a></p>\n'
