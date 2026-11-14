@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-d969698.svg">
-  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-2489c7d.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-609559a.svg">
-  <img alt="Diogo Costa — Frontend engineer, React + TypeScript" src="assets/banner-light-2194d6f.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark-77a5ecd.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile-light-49de08d.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-f9e8d8d.svg">
+  <img alt="Diogo Costa — Frontend engineer, React + TypeScript" src="assets/banner-light-fa2a6ec.svg" width="100%">
 </picture>
 
 <p>Hey there 👋🏻</p>
