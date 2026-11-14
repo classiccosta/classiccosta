@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="180" viewBox="0 0 840 180">
+  <style>
+    .name { font: 600 40px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .role { font: 400 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #9198a1; }
+    .bubble-user { fill: #27500a; }
+    .bubble-ai { fill: #2c2c2a; }
+    .dot { fill: #97c459; animation: blink 1.4s infinite ease-in-out; }
+    .d2 { animation-delay: .2s; }
+    .d3 { animation-delay: .4s; }
+    @keyframes blink { 0%, 80%, 100% { opacity: .25; } 40% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .dot { animation: none; opacity: 1; } }
+  </style>
+  <text x="40" y="82" class="name">Diogo Costa</text>
+  <text x="40" y="118" class="role">Frontend engineer · React + TypeScript · AI interfaces</text>
+
+  <rect x="610" y="34" width="190" height="38" rx="14" class="bubble-user"/>
+  <rect x="628" y="49" width="120" height="8" rx="4" fill="#97c459"/>
+
+  <rect x="560" y="86" width="160" height="38" rx="14" class="bubble-ai"/>
+  <circle cx="588" cy="105" r="5" class="dot"/>
+  <circle cx="606" cy="105" r="5" class="dot d2"/>
+  <circle cx="624" cy="105" r="5" class="dot d3"/>
+</svg>
