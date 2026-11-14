@@ -15,7 +15,6 @@ Frontend AI Integrations, UI experiments, and other stuff.</p>
 <H4>Latest Projects</H4>
 <p>Lime AI - a chat client for self-hosted LLMs.</p>
 <p>Streaming replies you can stop · works with any OpenAI-compatible server · tested and deployed with CI/CD</p>
-<p><a href="https://lime-zeta-three.vercel.app"><img alt="Lime streaming a reply from a local model" src="assets/lime-demo-1866a3e.gif" width="400"></a></p>
 <p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-debd791.svg"><img alt="Live demo" src="assets/demo-light-af5cdcb.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-6cbcbbb.svg"><img alt="Repo" src="assets/repo-light-65fec55.svg"></picture></a></p>
 
 <!-- OSS:START -->
