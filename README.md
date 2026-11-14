@@ -12,8 +12,8 @@
 <p>Here, you can find some of the personal projects and contributions that excite me the most:<br> 
 Frontend AI Integrations, UI experiments, and other stuff.</p> 
 
-<H4>Latest Projects: Lime AI </H4>
-<p>A chat client for self-hosted LLMs.</p>
+<H4>Latest Projects</H4>
+<p>Lime AI | A chat client for self-hosted LLMs.</p>
 <p><a href="https://lime-zeta-three.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark-823e640.svg"><img alt="Live demo" src="assets/demo-light-2320b5a.svg"></picture></a><a href="https://github.com/classiccosta/lime-local-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-dark-19299c9.svg"><img alt="Repo" src="assets/repo-light-3252aae.svg"></picture></a></p>
 
 <!-- OSS:START -->
